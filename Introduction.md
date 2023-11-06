@@ -22,19 +22,24 @@ We will be following all stages of Analysis
 
 **Ask**  
 
-We have to find out “How do annual members and casual riders use Cyclistic bikes differently?”
+We have to find out “How do annual members and casual riders use Cyclistic bikes differently?”  
+
 **Prepare**  
 
-We will use Cyclistic’s historical trip data to analyze and identify trends. Download the Cyclistic trip data here. 
+We will use Cyclistic’s historical trip data to analyze and identify trends. Download the Cyclistic trip data here.   
+
 **Process**  
 
-On this stage, we will check the data for errors, transform the data to work effectively and document the cleaning process.
+On this stage, we will check the data for errors, transform the data to work effectively and document the cleaning process.  
+
 **Analyze**  
 
-Here, we will aggregate, organize and format the data to perform calculations, identify the trends and relationships.
+Here, we will aggregate, organize and format the data to perform calculations, identify the trends and relationships.  
+
 **Share**  
 
-Now we will create effective data visualization to present our findings. 
+Now we will create effective data visualization to present our findings.   
+
 **Act**  
 
 Our top three recommendations to solve this problem.
